@@ -6,7 +6,6 @@ import javax.swing.text.html.HTMLDocument.Iterator;
 
 public class Alternate_concatenation {
 
-	
 	public static void main(String[] args) 
 	{
 		String s1="abcd";
